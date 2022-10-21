@@ -5,7 +5,7 @@ from PIL import Image
 
 image01 = Image.open('desenvolvimento.jpg')
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
+st.title("Bohemian Rhapsody é NOta 1000!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Cabeçalho")

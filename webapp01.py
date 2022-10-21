@@ -3,8 +3,7 @@
 import streamlit as st
 from PIL import Image
 
-image01 = Image.open('Bohemian-Rhapsody-1.jpg')
-# Use st.title("") para adicionar um TÍTULO ao seu Web app
+image01 = Image.open(' '.jpg)
 st.title("Bohemian Rhapsody é NOta 1000!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
